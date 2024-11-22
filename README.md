@@ -89,6 +89,7 @@ endmodule
 **RTL**
 ![Screenshot 2024-11-22 204429](https://github.com/user-attachments/assets/2e4265ab-008b-4d65-93c0-25d359e388c0)
 **Result:**
+
 The truth table of the specified logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR)
 was successfully implemented and verified using Verilog programming in Quartus II.
 
